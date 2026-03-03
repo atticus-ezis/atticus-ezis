@@ -1,8 +1,10 @@
-## Hi there 👋
+## Hello there
+Full Stack Developer with a focus on SaaS applications built primarily with Python. I have experience collaborating on production sites like [americanliterature]:https://americanliterature.com/ and working as part of an Agile team with [Mugan Tech]:https://mugna.tech/. Additionally I build solo web-apps. 
 
-I'm Atticus, I'm learning full-stack web development with Django, and data science and LLMS development with Python
+## Personal Project Highlights
+- [ats-resume-builder]:https://www.ats-resume-builder.com/
+Web App that generates Cover Letters and Resumes for a specific job-listing.
 
-- 🔭 I’m currently working on Dreadit, a open source collection of user submitted short horror stories. 
-- 🌱 I’m currently learning: Django, React, Python (Pandas, numpy) 
+## Contact
 - 📫 How to reach me: atticus.ezis@gmail.com
 
