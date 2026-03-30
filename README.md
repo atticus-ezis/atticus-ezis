@@ -1,9 +1,35 @@
-## Hello there
-Full Stack Developer with a focus on SaaS applications built primarily with Python. I have experience collaborating on production sites like [americanliterature]:https://americanliterature.com/ and working as part of an Agile team with [Mugan Tech]:https://mugna.tech/. Additionally I build solo web-apps. 
+# Hey, I'm Atticus 👋
 
-## Personal Project Highlights
-- [ats-resume-builder]:https://www.ats-resume-builder.com/
-Web App that generates Cover Letters and Resumes for a specific job-listing.
+Python developer specializing in **Django** and **FastAPI** — I build backends that actually ship.
+
+---
+
+## 💼 Work
+
+**[American Literature](https://americanliterature.com/)**
+AI-powered study tools — FAQs, flashcards, and summaries at scale.
+`Django` `Claude API`
+
+**[Mugna Tech](https://mugna.tech/)**
+Backend engineer on an agile team building accounting software. Designed payment pipelines for students and government clients.
+`Django REST Framework`
+
+---
+
+## 🚀 Personal Projects
+
+**[chord-pilot](https://github.com/atticus-ezis/chord-pilot)**
+*Tokyo Hackathon 2026* — Real-time AI chord modification as you play piano.
+`JavaScript` `Tone.js` `Claude API`
+
+**[amlit-speaks](https://github.com/atticus-ezis/amlit-speaks)**
+MVP microservice for AmericanLiterature. Streams text-to-speech via ElevenLabs with audio download support.
+`FastAPI` `ElevenLabs`
+
+**[ATS Resume Builder](https://www.ats-resume-builder.com/)**
+Full-stack app that generates tailored cover letters and resume PDFs for any job listing.
+`Django REST Framework` `Next.js` `TypeScript` `React` `Celery` `Redis` `OAuth2` `GitHub Actions`
+
 
 ## Contact
 - 📫 How to reach me: atticus.ezis@gmail.com
