@@ -18,7 +18,7 @@ Backend engineer on an agile team building accounting software. Designed payment
 
 ## 🚀 Personal Projects
 
-**[chord-pilot](https://github.com/atticus-ezis/chord-pilot)**
+**[chord-pilot](https://chord-pilot-silk.vercel.app/)**
 *Tokyo Hackathon 2026* — Real-time AI chord modification as you play piano.
 **Stack:** `JavaScript` `Tone.js` `Claude API`
 
